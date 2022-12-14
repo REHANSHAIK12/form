@@ -1,0 +1,26 @@
+#container{
+    border: 1px solid black;
+}
+#ssc{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#inter{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#degree{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#pg{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#img{
+    border: 1px solid black;
+}
